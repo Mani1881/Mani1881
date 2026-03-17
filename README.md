@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maneesha!`
+# 👋 Hi, I'm Maneesha!
 
 ![GitHub Banner](https://img.shields.io/badge/Welcome%20to%20My%20GitHub-Profile-blue?style=for-the-badge)
 
@@ -13,7 +13,7 @@
 ## 🛠️ Technical Skills
 
 ### Languages
-- **Java** | **Python** | **C++** | **JavaScript**|**Dotnet**|
+- **Java** | **Python** | **C++** | **JavaScript**|  **Dotnet**|
 
 ### Frontend
 - HTML | CSS | **React** | Responsive Design
