@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Mani!
+# 👋 Hi, I'm Maneesha!
 
 ![GitHub Banner](https://img.shields.io/badge/Welcome%20to%20My%20GitHub-Profile-blue?style=for-the-badge)
 
 ## 🙋‍♂️ About Me
 
-- 🔧 **Associate Software Engineer** at **Experian** (2024–Present)
+- 🔧 **Associate Software Engineer** at **Experian** 
 - 💻 Passionate about building scalable software solutions
 - 🎓 Strong foundation in computer science and software engineering
 - 🌱 Continuously learning and exploring new technologies
