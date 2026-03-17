@@ -4,7 +4,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔧 **Associate Software Engineer** at **Experian** 
+### 🔧 **Project Associate OSI Digital** *April 2025 – Oct 2025* 
+* Slashed database latency by **40%** through advanced Oracle query optimization and performance tuning.
+* Architected RESTful microservices using **Spring Boot** following the Controller-Service-Repository pattern.
+* Orchestrated secure data loading pipelines between **AWS S3** and **Snowflake**.
+  
+### 🔧 **Associate Software Engineer** at **Experian** *Oct 2025 – Present* 
 - 💻 Passionate about building scalable software solutions
 - 🎓 Strong foundation in computer science and software engineering
 - 🌱 Continuously learning and exploring new technologies
@@ -30,15 +35,6 @@
 - RESTful APIs | Object-Oriented Programming
 - Data Structures & Algorithms | Agile/Scrum
 
-## 🏢 Professional Experience
-
-### Associate Software Engineer @ Experian
-**2024 – Present**
-- Developing and maintaining software solutions for enterprise applications
-- Writing clean, maintainable code following best practices
-- Collaborating with cross-functional teams in an Agile environment
-- Contributing to code reviews and continuous improvement initiatives
-- Optimizing application performance and reliability
 
 ## 📊 GitHub Stats
 
