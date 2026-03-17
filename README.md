@@ -13,7 +13,7 @@
 ## 🛠️ Technical Skills
 
 ### Languages
-- **Java** | **Python** | **C++** | **JavaScript**
+- **Java** | **Python** | **C++** | **JavaScript**|**Dotnet**|
 
 ### Frontend
 - HTML | CSS | **React** | Responsive Design
@@ -59,9 +59,8 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mani1881/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/mani1881)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manu-mumba/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](maneeshayamke1881@gmail.com)
 
 ---
 
