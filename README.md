@@ -1,31 +1,32 @@
-# Welcome to My Profile
+# Enhanced Profile Design
 
-## 🌟 Enhanced Profile Design
-Here's a creative and attractive design featuring various elements:
-
-### ASCII Art
+## 3D ASCII Art
+```plaintext
+    .-.
+   |_:_|
+   |(_)|
+    '-'
 ```
-       *     
-    * *    
-   * * *   
-        |  
-   --------- 
-```       
 
-### Badges
-[![GitHub followers](https://img.shields.io/github/followers/Mani1881?style=social)](https://github.com/Mani1881)
-[![GitHub stars](https://img.shields.io/github/stars/Mani1881?style=social)](https://github.com/Mani1881)
+## Professional Journey
+| Year       | Role                      | Company      |
+|------------|---------------------------|--------------|
+| 2020       | Software Developer        | TechCorp     |
+| 2021       | Senior Software Developer | Innovate Inc |
+| 2023       | Lead Engineer             | CreateTech   |
 
-### Interactive Elements
-Click [here](https://github.com/Mani1881) to view my repositories.
+## Tech Badges
+![Python](https://img.shields.io/badge/Python-3EAA13?style=plastic&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)  
 
-### Advanced GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mani1881&show_icons=true)
+## GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mani1881&show_icons=true&theme=radical)
 
-## Professional Styling
-- **Languages:** JavaScript, Python, C++
-- **Tools:** Git, VSCode, Docker
-- **Interests:** Open Source, AI, Web Development
+## Learning Roadmap
+- [ ] Learn React
+- [ ] Master Node.js
 
-### Contact Me
-Feel free to reach out on [LinkedIn](https://linkedin.com/in/username) or [Twitter](https://twitter.com/username).
+## Interactive Elements
+- [Demo Projects](link_to_demo)
+- [Contact Me](link_to_contact)
