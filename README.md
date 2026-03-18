@@ -1,72 +1,22 @@
-# 👋 Hi, I'm Maneesha!
+# My Creative 3D Profile Design
 
-![GitHub Banner](https://img.shields.io/badge/Welcome%20to%20My%20GitHub-Profile-blue?style=for-the-badge)
+## Introduction
+Welcome to my creative 3D profile design! This README aims to showcase my skills, interests, and projects in an interactive and visually appealing manner. Stay tuned for updates as I enhance my portfolio!
 
-## 🙋‍♂️ About Me
+## 3D Profile Overview
+I love working with cutting-edge technologies and bringing ideas to life. Below are some highlights of my work:
 
-### 🔧 **Project Associate OSI Digital** *April 2025 – Oct 2025* 
-* Slashed database latency by **40%** through advanced Oracle query optimization and performance tuning.
-* Architected RESTful microservices using **Spring Boot** following the Controller-Service-Repository pattern.
-* Orchestrated secure data loading pipelines between **AWS S3** and **Snowflake**.
-  
-### 🔧 **Associate Software Engineer** at **Experian** *Oct 2025 – Present* 
-- 💻 Passionate about building scalable software solutions
-- 🎓 Strong foundation in computer science and software engineering
-- 🌱 Continuously learning and exploring new technologies
-- 🚀 Interested in full-stack development, cloud technologies, and optimization
+- **3D Modeling**: Creating stunning models using Blender and Maya.
+- **Animation**: Bringing models to life with animation techniques.
+- **Web Development**: Building interactive 3D experiences with Three.js.
 
-## 🛠️ Technical Skills
+## Projects
+1. **3D Portfolio Website**: A responsive website showcasing my 3D artwork.
+2. **Interactive 3D Gallery**: An online gallery for users to interact with my 3D work.
+3. **Game Development**: Developing 3D games with Unity.
 
-### Languages
-- **Java** | **Python** | **C++** | **JavaScript**|  **Dotnet**|
+## Contact
+Feel free to reach out to me for collaborations or inquiries at [myemail@example.com].
 
-### Frontend
-- HTML | CSS | **React** | Responsive Design
-
-### Backend & Databases
-- **Spring Boot** | **Node.js** | **Express**
-- MySQL | MongoDB | SQL Server
-
-### Tools & DevOps
-- **Git** | **GitHub** | **Docker**
-- VS Code | JIRA | Linux
-
-### Concepts
-- RESTful APIs | Object-Oriented Programming
-- Data Structures & Algorithms | Agile/Scrum
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mani1881&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani1881&layout=compact&theme=dark)
-
-## 🚀 Projects
-
-*Coming soon! Check out my repositories for detailed project information.*
-
-## 📚 What I'm Learning
-
-- Cloud Technologies (AWS/Azure)
-- Microservices Architecture
-- DevOps & CI/CD Pipelines
-- Advanced Data Structures
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manu-mumba/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](maneeshayamke1881@gmail.com)
-
----
-
-## ⚡ Fun Facts
-
-- 🎯 Problem solver with a passion for clean code
-- 📖 Love reading tech blogs and documentation
-- 🏃 Enjoy outdoor activities and fitness
-- 🤝 Open to collaborations and learning from the community
-
----
-
-**⭐ If you find my work interesting, feel free to star my repositories!**  
+## Conclusion
+Thank you for visiting my profile! Keep an eye out for exciting updates coming soon!
