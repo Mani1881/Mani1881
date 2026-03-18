@@ -1,32 +1,72 @@
-# Enhanced Profile Design
+# 👋 Hi, I'm Maneesha!
 
-## 3D ASCII Art
-```plaintext
-    .-.
-   |_:_|
-   |(_)|
-    '-'
-```
+![GitHub Banner](https://img.shields.io/badge/Welcome%20to%20My%20GitHub-Profile-blue?style=for-the-badge)
 
-## Professional Journey
-| Year       | Role                      | Company      |
-|------------|---------------------------|--------------|
-| 2020       | Software Developer        | TechCorp     |
-| 2021       | Senior Software Developer | Innovate Inc |
-| 2023       | Lead Engineer             | CreateTech   |
+## 🙋‍♂️ About Me
 
-## Tech Badges
-![Python](https://img.shields.io/badge/Python-3EAA13?style=plastic&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)  
+### 🔧 **Project Associate OSI Digital** *April 2025 – Oct 2025* 
+* Slashed database latency by **40%** through advanced Oracle query optimization and performance tuning.
+* Architected RESTful microservices using **Spring Boot** following the Controller-Service-Repository pattern.
+* Orchestrated secure data loading pipelines between **AWS S3** and **Snowflake**.
+  
+### 🔧 **Associate Software Engineer** at **Experian** *Oct 2025 – Present* 
+- 💻 Passionate about building scalable software solutions
+- 🎓 Strong foundation in computer science and software engineering
+- 🌱 Continuously learning and exploring new technologies
+- 🚀 Interested in full-stack development, cloud technologies, and optimization
 
-## GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mani1881&show_icons=true&theme=radical)
+## 🛠️ Technical Skills
 
-## Learning Roadmap
-- [ ] Learn React
-- [ ] Master Node.js
+### Languages
+- **Java** | **Python** | **C++** | **JavaScript**|  **Dotnet**|
 
-## Interactive Elements
-- [Demo Projects](link_to_demo)
-- [Contact Me](link_to_contact)
+### Frontend
+- HTML | CSS | **React** | Responsive Design
+
+### Backend & Databases
+- **Spring Boot** | **Node.js** | **Express**
+- MySQL | MongoDB | SQL Server
+
+### Tools & DevOps
+- **Git** | **GitHub** | **Docker**
+- VS Code | JIRA | Linux
+
+### Concepts
+- RESTful APIs | Object-Oriented Programming
+- Data Structures & Algorithms | Agile/Scrum
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mani1881&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani1881&layout=compact&theme=dark)
+
+## 🚀 Projects
+
+*Coming soon! Check out my repositories for detailed project information.*
+
+## 📚 What I'm Learning
+
+- Cloud Technologies (AWS/Azure)
+- Microservices Architecture
+- DevOps & CI/CD Pipelines
+- Advanced Data Structures
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/manu-mumba/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](maneeshayamke1881@gmail.com)
+
+---
+
+## ⚡ Fun Facts
+
+- 🎯 Problem solver with a passion for clean code
+- 📖 Love reading tech blogs and documentation
+- 🏃 Enjoy outdoor activities and fitness
+- 🤝 Open to collaborations and learning from the community
+
+---
+
+**⭐ If you find my work interesting, feel free to star my repositories!**  
