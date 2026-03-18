@@ -1,22 +1,31 @@
-# My Creative 3D Profile Design
+# Welcome to My Profile
 
-## Introduction
-Welcome to my creative 3D profile design! This README aims to showcase my skills, interests, and projects in an interactive and visually appealing manner. Stay tuned for updates as I enhance my portfolio!
+## 🌟 Enhanced Profile Design
+Here's a creative and attractive design featuring various elements:
 
-## 3D Profile Overview
-I love working with cutting-edge technologies and bringing ideas to life. Below are some highlights of my work:
+### ASCII Art
+```
+       *     
+    * *    
+   * * *   
+        |  
+   --------- 
+```       
 
-- **3D Modeling**: Creating stunning models using Blender and Maya.
-- **Animation**: Bringing models to life with animation techniques.
-- **Web Development**: Building interactive 3D experiences with Three.js.
+### Badges
+[![GitHub followers](https://img.shields.io/github/followers/Mani1881?style=social)](https://github.com/Mani1881)
+[![GitHub stars](https://img.shields.io/github/stars/Mani1881?style=social)](https://github.com/Mani1881)
 
-## Projects
-1. **3D Portfolio Website**: A responsive website showcasing my 3D artwork.
-2. **Interactive 3D Gallery**: An online gallery for users to interact with my 3D work.
-3. **Game Development**: Developing 3D games with Unity.
+### Interactive Elements
+Click [here](https://github.com/Mani1881) to view my repositories.
 
-## Contact
-Feel free to reach out to me for collaborations or inquiries at [myemail@example.com].
+### Advanced GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mani1881&show_icons=true)
 
-## Conclusion
-Thank you for visiting my profile! Keep an eye out for exciting updates coming soon!
+## Professional Styling
+- **Languages:** JavaScript, Python, C++
+- **Tools:** Git, VSCode, Docker
+- **Interests:** Open Source, AI, Web Development
+
+### Contact Me
+Feel free to reach out on [LinkedIn](https://linkedin.com/in/username) or [Twitter](https://twitter.com/username).
